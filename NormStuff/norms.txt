@@ -1,0 +1,9 @@
+vector    (1.0, 0.0, 0.0, 0.0)
+ASNorm                       1
+ENorm                        1
+Ratio                        1
+Name: 0, dtype: objectvector    (1.0, 0.0, 0.0, 0.8)
+ASNorm                 1.03923
+ENorm                  1.28062
+Ratio                 0.811503
+Name: 8, dtype: object
